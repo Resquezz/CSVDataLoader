@@ -1,0 +1,5 @@
+IF DB_ID(N'CrewRedTestTaskDb') IS NULL
+BEGIN
+    CREATE DATABASE [CrewRedTestTaskDb];
+END
+GO

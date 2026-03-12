@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CrewRedTestTask.Application/CrewRedTestTask.Application.csproj" Id="359ba0f5-7336-447c-9a6e-bf4f55c7677f" />
+  <Project Path="CrewRedTestTask.Domain/CrewRedTestTask.Domain.csproj" Id="ff79b079-b529-4b16-8303-201a76f9ef66" />
+  <Project Path="CrewRedTestTask.Infrastructure/CrewRedTestTask.Infrastructure.csproj" Id="9edd118f-2499-470b-9354-e864ac5e211e" />
+  <Project Path="CrewRedTestTask/CrewRedTestTask.csproj" />
+</Solution>
